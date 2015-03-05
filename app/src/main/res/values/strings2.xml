@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvPrestado">Prestado</string>
+    <string name="tvJuego">Juego</string>
+    <string name="archivo">juegos.xml</string>
+    <string name="codificacion">utf-8</string>
+    <string name="titulo">titulo</string>
+    <string name="genero">genero</string>
+    <string name="plataforma">plataforma</string>
+    <string name="index">index</string>
+    <string name="objeto">objeto</string>
+    <string name="juegos">juegos</string>
+    <string name="raizJuegos">Juegos</string>
+    <string name="feature">http://xmlpull.org/v1/doc/features.html#indent-output</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Genero">Genero</string>
+    <string name="Plataforma">Plataforma</string>
+</resources>

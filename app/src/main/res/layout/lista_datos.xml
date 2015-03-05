@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivImagen"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTitulo"
+        android:layout_toRightOf="@id/ivImagen"
+        android:text="@string/tvTitulo"
+        style="@style/text"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvGenero"
+        android:layout_toRightOf="@id/ivImagen"
+        android:layout_below="@id/tvTitulo"
+        android:text="@string/tvGenero"
+        style="@style/text"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tvPlataforma"
+        android:id="@+id/tvPlataforma"
+        android:layout_below="@+id/tvGenero"
+        android:layout_toRightOf="@+id/ivImagen"
+        style="@style/text"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvPrestado"
+        style="@style/text"
+        android:layout_below="@+id/tvPlataforma"
+        android:layout_alignLeft="@+id/tvPlataforma"
+        android:layout_alignStart="@+id/tvPlataforma" />
+
+
+</RelativeLayout>

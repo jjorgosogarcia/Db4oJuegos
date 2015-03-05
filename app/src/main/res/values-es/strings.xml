@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videojuegos</string>
+    <string name="tvTitulo">Titulo</string>
+    <string name="tvGenero">Genero</string>
+    <string name="tvPlataforma">Plataforma</string>
+    <string name="rbPs3">Ps3</string>
+    <string name="rbXbox">Xbox</string>
+    <string name="rbPc">Pc</string>
+    <string name="action_anadir">Aniadir</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_modify">Modificar</string>
+    <string name="action_letGame">Dejar juego</string>
+    <string name="action_recoverGame">Recuperar juego</string>
+    <string name="action_deleteAll">Borrar todo</string>
+    <string name="letgameto">Dejar juego a:</string>
+    <string name="modify">Juego modificado</string>
+    <string name="add">Juego insertado</string>
+    <string name="prestar">Prestar juego</string>
+    <string name="prestado">Prestado a: </string>
+    <string name="error">Inserta el titulo del juego </string>
+    <string name="error2">No has prestado este juego </string>
+    <string name="borrarTodos">Eliminar todos los juegos</string>
+    <string name="juegoDevuelto">Pulsa aceptar si has recuperado el juego</string>
+    <string name="eliminarUno">Quieres eliminar el juego?</string>
+    <string name="yaPrestado">Este juego lo tienes prestado en estos momentos</string>
+    <string name="Yatiene" >Ya tiene este juego</string>
+    <string name="btAceptar">Aceptar</string>
+    <string name="btCancelar">Cancelar</string>
+    <string name="ordenar">Ordenar plataforma</string>
+</resources>

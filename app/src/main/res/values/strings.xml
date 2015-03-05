@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Videogames</string>
+    <string name="tvTitulo">Title</string>
+    <string name="tvGenero">Genre</string>
+    <string name="tvPlataforma">Platform</string>
+    <string name="rbPs3">Ps3</string>
+    <string name="rbXbox">Xbox</string>
+    <string name="rbPc">Pc</string>
+    <string name="action_anadir">Add new game</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_modify">Modify</string>
+    <string name="action_letGame">Let game</string>
+    <string name="action_recoverGame">Recover game</string>
+    <string name="action_deleteAll">Delete all</string>
+    <string name="letgameto">Let game to</string>
+    <string name="modify">Game Modify</string>
+    <string name="add">Game Added</string>
+    <string name="prestar">Let game</string>
+    <string name="prestado">Let game to: </string>
+    <string name="error">Please, insert the game title</string>
+    <string name="error2">You have not given this game</string>
+    <string name="borrarTodos">Delete all games?</string>
+    <string name="juegoDevuelto">Click OK if you have recovered the game</string>
+    <string name="eliminarUno">Delete the game?</string>
+    <string name="yaPrestado">This game have let at this time</string>
+    <string name="Yatiene">This game already exist in your list</string>
+    <string name="title_activity_gestion_juego">gestionJuego</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btAceptar">Accept</string>
+    <string name="btCancelar">Cancel</string>
+    <string name="ordenar">Order by platform</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item android:id="@+id/action_editar"
+        android:title="@string/action_modify"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_eliminar"
+        android:title="@string/action_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_prestado"
+        android:title="@string/action_letGame"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_devolver"
+        android:title="@string/action_recoverGame"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>

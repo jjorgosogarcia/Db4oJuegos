@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+
+    <item android:id="@+id/action_anadir"
+        android:title="@string/action_anadir"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_borrarTodo"
+        android:title="@string/action_deleteAll"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_ordenarPlataforma"
+        android:title="ordenar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>
